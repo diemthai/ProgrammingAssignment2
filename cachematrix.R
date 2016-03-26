@@ -1,4 +1,4 @@
-## 1st commit SHA-1 hash identifier: b05b5096e135ae3ae46020952cc914cbce168841
+## 1st commit SHA-1 hash identifier: 30c8d297c3647c26c41291d91232e347d6b680a6
 ## R Programming Assignment 2: Lexical Scoping--caching the inverse of a matrix
 
 ## The makeCacheMatrix function creates a special "matrix",
